@@ -44,7 +44,7 @@ export default function HowItWorks() {
               Protection in 3 steps. Zero technical knowledge needed.
             </h2>
 
-            <div className="flex flex-col mt-10">
+            <div className="flex flex-col mt-10 h-[60vh]">
               {steps.map((step, i) => (
                 <div 
                   key={i} 
